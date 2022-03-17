@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "H:\\trpo"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.bak": "java"
+		},
+		
+		"workbench.colorTheme": "Quiet Light",
+		"editor.defaultFormatter": "redhat.java",
+		"editor.formatOnSave": true
+		
+	}
+	
+}
